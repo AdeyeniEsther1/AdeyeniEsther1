@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Esther!
-<a href="https://www.linkedin.com/in/esther-profile/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adeyeniesther/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a **Data Scientist** with a strong foundation in **data analysis**, leveraging years of experience in data entry to uncover actionable insights.  Currently, I am expanding my skill set by learning **machine learning** and **deep learning** to enhance my ability to solve complex problems and create data-driven solutions.
 
