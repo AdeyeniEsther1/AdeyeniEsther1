@@ -7,9 +7,9 @@ I am a **Data Scientist** with a strong foundation in **data analysis**, leverag
 My goal is to leverage data science to solve complex problems and enable data-driven decisions. With experience in data analysis and visualization, I aim to expand my expertise in **machine learning** and **AI**. I am driven by the passion to create solutions that make an impact in fields like healthcare, technology, finance, and beyond.
 
 ## What I Do:
-- Data Analysis & Visualization: Proficient in performing data analysis and creating impactful visualizations using tools like Tableau and Power BI.
-- Predictive Modeling & Machine Learning: Expertise in building predictive models and working on supervised and unsupervised learning techniques, including market basket analysis.
-- SQL & Python Proficiency: Advanced knowledge of SQL and Python for data manipulation, analysis, and machine learning workflows.
+- **Data Analysis & Visualization**: Proficient in performing data analysis and creating impactful visualizations using tools like Tableau and Power BI.
+- **Predictive Modeling & Machine Learning**: Expertise in building predictive models and working on supervised and unsupervised learning techniques, including market basket analysis.
+- **SQL & Python Proficiency**: Advanced knowledge of SQL and Python for data manipulation, analysis, and machine learning workflows.
 
 ## Projects
 
@@ -49,7 +49,7 @@ Bowen University, Nigeria
 Graduated: 2022
 
 **Data Science Specialization**  
-Currently studying machine learning, deep learning, and generative AI through various online courses, including **Google Data Analytics** and **IBM AI Fundamentals**.
+Currently studying machine learning, deep learning, and generative AI through various online courses.
 
 ## Certifications
 
