@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Esther!
 <a href="https://www.linkedin.com/in/adeyeniesther/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a **Data Scientist** with a strong foundation in **data analysis**, leveraging years of experience in data entry to uncover actionable insights.  Currently, I am expanding my skill set by learning **machine learning** and **deep learning** to enhance my ability to solve complex problems and create data-driven solutions.
+I am a **Data Scientist** with a strong foundation in **data analysis**, leveraging years of experience in data entry to uncover actionable insights. Currently, I am expanding my skill set by learning **machine learning** and **deep learning** to enhance my ability to solve complex problems and create data-driven solutions.
 
 ## Objective
 My goal is to leverage data science to solve complex problems and enable data-driven decisions. With experience in data analysis and visualization, I aim to expand my expertise in **machine learning** and **AI**. I am driven by the passion to create solutions that make an impact in fields like healthcare, technology, finance, and beyond.
@@ -18,8 +18,8 @@ My goal is to leverage data science to solve complex problems and enable data-dr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| **SQL & Power BI**                            | Sales Analysis              |
-| **Python and Data Visualizations**            | Football Analysis           |
+| **SQL & Power BI**                            | [Sales Analysis](https://github.com/AdeyeniEsther1/SalesAnalysis)              |
+| **Python and Data Visualizations**            | [Football Analysis](https://github.com/AdeyeniEsther1/FifaWorldCup)           |
 | **Machine Learning**                          | Predictive Modeling         |
 | **Deep Learning & Neural Networks**           | Ongoing Learning            |
 | **Generative AI**                             | Ongoing Learning            |
