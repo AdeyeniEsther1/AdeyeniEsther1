@@ -19,7 +19,7 @@ My goal is to leverage data science to solve complex problems and enable data-dr
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | **SQL & Power BI**                            | Sales Analysis              |
-| **Python and Data Visualizations**            | Sales Forecasting           |
+| **Python and Data Visualizations**            | Football Analysis           |
 | **Machine Learning**                          | Predictive Modeling         |
 | **Deep Learning & Neural Networks**           | Ongoing Learning            |
 | **Generative AI**                             | Ongoing Learning            |
