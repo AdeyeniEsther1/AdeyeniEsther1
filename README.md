@@ -1,23 +1,79 @@
-## Hi there 👋 , I'm Esther!
-I am a **Data Scientist** with a strong foundation in **data analysis**, leveraging years of experience in data entry to uncover actionable insights. My unique background in human anatomy gives me a distinct perspective when analyzing and interpreting data. Currently, I am expanding my skill set by learning machine learning, deep learning, and generative AI to enhance my ability to solve complex problems and create data-driven solutions.
+# Hi there 👋 , I'm Esther!
+<a href="https://www.linkedin.com/in/esther-profile/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🧠 What I Do:
-- **Data Analysis & Visualization**: Proficient in creating impactful visualizations and performing data analysis using tools like Tableau and Power BI.
-- **SQL & Python Proficiency**: Advanced knowledge of SQL and Python for data manipulation, analysis, and machine learning workflows.
+I am a **Data Scientist** with a strong foundation in **data analysis**, leveraging years of experience in data entry to uncover actionable insights.  Currently, I am expanding my skill set by learning **machine learning** and **deep learning** to enhance my ability to solve complex problems and create data-driven solutions.
 
-📜 Certifications:
-- **IC3 Certification from New Horizons.**
-- **Introduction to Data Science** from [Cisco](https://www.credly.com/badges/535d5309-1f96-474f-aafd-f8201159917a/public_url).
-- **Data Analytics Essentials** from [Cisco](https://www.credly.com/badges/fc854bca-d6df-4f4e-86c5-01c203b10211/public_url).
-- Currently pursuing **AI Fundamentals** with IBM and **AI with Intel**.
-  
-🌱 Currently Learning:
+## Objective
+My goal is to leverage data science to solve complex problems and enable data-driven decisions. With experience in data analysis and visualization, I aim to expand my expertise in **machine learning** and **AI**. I am driven by the passion to create solutions that make an impact in fields like healthcare, technology, finance, and beyond.
+
+## What I Do:
+- Data Analysis & Visualization: Proficient in performing data analysis and creating impactful visualizations using tools like Tableau and Power BI.
+- Predictive Modeling & Machine Learning: Expertise in building predictive models and working on supervised and unsupervised learning techniques, including market basket analysis.
+- SQL & Python Proficiency: Advanced knowledge of SQL and Python for data manipulation, analysis, and machine learning workflows.
+
+## Projects
+
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| **SQL & Power BI**                            | Sales Analysis              |
+| **Python and Data Visualizations**            | Sales Forecasting           |
+| **Machine Learning**                          | Predictive Modeling         |
+| **Deep Learning & Neural Networks**           | Ongoing Learning            |
+| **Generative AI**                             | Ongoing Learning            |
+
+## Tools
+
+### Data Analysis & Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Data Engineering & Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Education
+
+**Bachelor of Science in Anatomy**  
+Bowen University, Nigeria  
+Graduated: 2022
+
+**Data Science Specialization**  
+Currently studying machine learning, deep learning, and generative AI through various online courses, including **Google Data Analytics** and **IBM AI Fundamentals**.
+
+## Certifications
+
+<div>
+    <a href="https://www.credly.com/badges/535d5309-1f96-474f-aafd-f8201159917a/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/-Introduction%20to%20Data%20Science-2962FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
+    <a href="https://www.credly.com/badges/fc854bca-d6df-4f4e-86c5-01c203b10211/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/-Data%20Analytics%20Essentials-2962FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    </a>
+    <a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank">
+        <img src="https://img.shields.io/badge/-IBM%20AI%20Fundamentals-FF6F00?&style=for-the-badge&logo=IBM&logoColor=white" />
+    </a>
+    <a href="https://www.newhorizons.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-IC3%20Certification-FF5733?&style=for-the-badge&logo=New%20Horizons&logoColor=white" />
+    </a>
+    <a href="https://www.coursera.org/specializations/machine-learning" target="_blank">
+        <img src="https://img.shields.io/badge/-Machine%20Learning%20Specialization-FF4500?&style=for-the-badge&logo=Coursera&logoColor=white" />
+    </a>
+    <a href="https://www.coursera.org/specializations/deep-learning" target="_blank">
+        <img src="https://img.shields.io/badge/-Deep%20Learning%20Specialization-6C4FBB?&style=for-the-badge&logo=Coursera&logoColor=white" />
+    </a>
+</div>
+
+## Currently Learning:
 - **Machine Learning & Deep Learning**: Building predictive models, classification, regression, and working with neural networks.
-- **Generative AI** and diving deeper into deep learning applications.
-- Expanding my skillset through hands-on projects.
-  
-🎯 My Mission:
-I aim to leverage data science to solve complex problems and enable data-driven decisions. With every project, I’m driven by the passion to create solutions that make an impact.
-
-- ⚡ Fun fact: I have a unique blend of expertise in both human anatomy and data science! While my journey started in healthcare, I'm passionate about using data science to uncover insights across various sectors—whether it's healthcare, technology, finance, or beyond. I love exploring new challenges and applying data-driven solutions wherever they are needed!
--->
+- **Generative AI**: Diving deeper into applications of generative AI for real-world solutions.
