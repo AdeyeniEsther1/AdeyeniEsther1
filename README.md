@@ -20,7 +20,7 @@ My goal is to leverage data science to solve complex problems and enable data-dr
 |-----------------------------------------------|----------------------------|
 | **SQL & Power BI**                            | [Sales Analysis](https://github.com/AdeyeniEsther1/SalesAnalysis)              |
 | **Python and Data Visualizations**            | [Football Analysis](https://github.com/AdeyeniEsther1/FifaWorldCup)           |
-| **Machine Learning**(**Predictive Modeling**) | [Citrone EligibilityChecker](https://github.com/AdeyeniEsther1/Citrone-Eligibility-Checker)        |
+| **Machine Learning**(**Predictive Modeling**) | [Citrone Eligibility Checker](https://github.com/AdeyeniEsther1/Citrone-Eligibility-Checker)        |
 | **Deep Learning & Neural Networks**           | Ongoing Learning            |
 | **Generative AI**                             | Ongoing Learning            |
 
@@ -54,6 +54,9 @@ Currently studying machine learning, deep learning, and generative AI through va
 ## Certifications
 
 <div>
+    <a href="https://diploma.gomycode.app/?id=31728252015255392" target="_blank">
+        <img src="https://img.shields.io/badge/-Data%20Science%20at%20GoMyCode-FF1493?&style=for-the-badge&logo=GoMyCode&logoColor=white" />
+    </a>
     <a href="https://www.credly.com/badges/535d5309-1f96-474f-aafd-f8201159917a/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-Introduction%20to%20Data%20Science-2962FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
     </a>
