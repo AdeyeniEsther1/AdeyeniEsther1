@@ -20,7 +20,7 @@ My goal is to leverage data science to solve complex problems and enable data-dr
 |-----------------------------------------------|----------------------------|
 | **SQL & Power BI**                            | [Sales Analysis](https://github.com/AdeyeniEsther1/SalesAnalysis)              |
 | **Python and Data Visualizations**            | [Football Analysis](https://github.com/AdeyeniEsther1/FifaWorldCup)           |
-| **Machine Learning**                          | Predictive Modeling         |
+| **Machine Learning**(**Predictive Modeling**) | [Citrone EligibilityChecker](https://github.com/AdeyeniEsther1/Citrone-Eligibility-Checker)        |
 | **Deep Learning & Neural Networks**           | Ongoing Learning            |
 | **Generative AI**                             | Ongoing Learning            |
 
