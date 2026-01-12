@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Esther!
 <a href="https://www.linkedin.com/in/adeyeniesther/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a **Data Scientist** specializing in **Financial Technology (FinTech)** solutions. With expertise in machine learning and predictive analytics, I develop data-driven models that solve real-world financial problems. My passion lies in leveraging data science to create impactful solutions in credit risk assessment, lead scoring, and financial analytics. Based in Lagos, Nigeria, I'm committed to building scalable ML solutions for the African FinTech ecosystem.
+I'm a **Data Scientist** specializing in **Financial Technology (FinTech)** solutions. With expertise in machine learning and predictive analytics, I develop data-driven models that solve real-world financial problems. My passion lies in leveraging data science to create impactful solutions in credit risk assessment, lead scoring, and financial analytics. I'm committed to building scalable ML solutions.
 
 ## Objective
 
@@ -9,7 +9,7 @@ To harness the power of machine learning and data science to build innovative **
 
 ## What I Do
 
-- **FinTech Machine Learning**: Building predictive models for credit risk assessment, lead scoring, and fraud detection in financial systems.
+- **Machine Learning**: Building predictive models for credit risk assessment, lead scoring, and fraud detection in financial systems.
 - **Data Analysis & Visualization**: Extracting actionable insights from financial data using advanced analytics and visualization tools like Tableau and Power BI.
 - **ML Model Deployment**: Deploying machine learning models to production using modern cloud platforms and web frameworks like Streamlit.
 - **Predictive Analytics**: Developing supervised and unsupervised learning models for financial forecasting and customer behavior analysis.
@@ -19,7 +19,7 @@ To harness the power of machine learning and data science to build innovative **
 
 | Project | Description | Technologies | Status |
 |---------|-------------|---------------|--------|
-| **[Lead Scoring Model](https://github.com/AdayeniEsther1/lead-scoring-model)** | ML model predicting lead interest with 73% accuracy for financial services. Features Streamlit web interface, Gradient Boosting classifier, and cloud deployment. **[Live Demo](https://lead-scoring-model-9szyx5fejwnnktbxhcogr.streamlit.app/)** | Python, Scikit-learn, Streamlit, Pandas | ✅ Complete |
+| **[Lead Scoring Model](https://github.com/AdayeniEsther1/lead-scoring-model)** | ML model predicting lead interest with 73% accuracy for financial services. Features Streamlit web interface, Gradient Boosting classifier, and cloud deployment. **[Live Demo]([https://lead-scoring-model-9szyx5fejwnnktbxhcogr.streamlit.app/](https://lead-scoring-model-9szyx5hfejwnnktbxhcogr.streamlit.app/))** | Python, Scikit-learn, Streamlit, Pandas | ✅ Complete |
 | **[Default of Credit Card Prediction](https://github.com/AdayeniEsther1/credit-card-default-prediction)** | Advanced ML model for predicting credit card default risk. Implements ensemble methods and feature engineering for financial risk assessment. | Python, Scikit-learn, XGBoost, Pandas | 🚀 Coming Soon |
 | **[Sales Analysis](https://github.com/AdeyeniEsther1/SalesAnalysis)** | Comprehensive sales data analysis and visualization | SQL, Power BI | ✅ Complete |
 | **[Football Analysis](https://github.com/AdeyeniEsther1/FifaWorldCup)** | FIFA World Cup data analysis and insights | Python, Data Visualization | ✅ Complete |
