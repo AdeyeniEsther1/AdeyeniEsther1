@@ -19,7 +19,7 @@ To harness the power of machine learning and data science to build innovative **
 
 | Project | Description | Technologies | Status |
 |---------|-------------|---------------|--------|
-| **[Lead Scoring Model](https://github.com/AdayeniEsther1/lead-scoring-model)** | ML model predicting lead interest with 73% accuracy for financial services. Features Streamlit web interface, Gradient Boosting classifier, and cloud deployment. **[Live Demo]([https://lead-scoring-model-9szyx5fejwnnktbxhcogr.streamlit.app/](https://lead-scoring-model-9szyx5hfejwnnktbxhcogr.streamlit.app/))** | Python, Scikit-learn, Streamlit, Pandas | ✅ Complete |
+| **[Lead Scoring Model](https://github.com/AdayeniEsther1/lead-scoring-model)** | ML model predicting lead interest with 73% accuracy for financial services. Features Streamlit web interface, Gradient Boosting classifier, and cloud deployment.**[Live Demo](https://lead-scoring-model-9szyx5fejwnnktbxhcogr.streamlit.app/)**| Python, Scikit-learn, Streamlit, Pandas | ✅ Complete |
 | **[Default of Credit Card Prediction](https://github.com/AdayeniEsther1/credit-card-default-prediction)** | Advanced ML model for predicting credit card default risk. Implements ensemble methods and feature engineering for financial risk assessment. | Python, Scikit-learn, XGBoost, Pandas | 🚀 Coming Soon |
 | **[Sales Analysis](https://github.com/AdeyeniEsther1/SalesAnalysis)** | Comprehensive sales data analysis and visualization | SQL, Power BI | ✅ Complete |
 | **[Football Analysis](https://github.com/AdeyeniEsther1/FifaWorldCup)** | FIFA World Cup data analysis and insights | Python, Data Visualization | ✅ Complete |
