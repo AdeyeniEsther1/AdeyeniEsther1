@@ -36,8 +36,8 @@ To harness the power of machine learning and data science to build innovative **
 | **Ensemble Methods & Feature Engineering** | Machine Learning | Intermediate |
 | **SQL & Python** | Data Engineering | Advanced |
 | **Tableau & Power BI** | Data Visualization | Advanced |
-| **Deep Learning & Neural Networks** | AI | Beginner |
-| **Generative AI** | AI | Beginner |
+| **Deep Learning & Neural Networks** | AI | Intermediate |
+| **Generative AI** | AI | Intermediate |
 
 ## Tools
 
@@ -64,6 +64,9 @@ To harness the power of machine learning and data science to build innovative **
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Education
+
+**GOMYCODE,Nigeria**
+DATA SCIENCE 2024
 
 **Bachelor of Science in Anatomy**  
 Bowen University, Nigeria  
