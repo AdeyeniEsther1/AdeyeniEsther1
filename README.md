@@ -109,11 +109,11 @@ Currently advancing expertise in machine learning, deep learning, and AI applica
 - ✅ Developed **full ML pipeline** from data collection to cloud deployment using Streamlit
 - ✅ Mastered **Gradient Boosting, Random Forest, and Ensemble Methods** for financial applications
 - ✅ Created **production-ready code** following industry best practices and documentation standards
-- 🚀 **Upcoming**: Credit Card Default Prediction Model - Advanced FinTech solution
+- **Upcoming**: Credit Card Default Prediction Model - Advanced FinTech solution
 
 ---
 
-## 💼 Professional Interests
+##  Professional Interests
 
 - **Credit Risk Modeling** | **Loan Default Prediction** | **Lead Scoring**
 - **Fraud Detection Systems** | **Financial Forecasting** | **Customer Analytics**
@@ -121,8 +121,4 @@ Currently advancing expertise in machine learning, deep learning, and AI applica
 
 ---
 
-**📍 Lagos, Nigeria | 💻 Remote-First | 🚀 Open to FinTech Opportunities**
-
----
-
-*Last Updated: January 2026*
+**Lagos, Nigeria | 💻 Remote-First | Open to FinTech Opportunities**
