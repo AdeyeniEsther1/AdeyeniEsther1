@@ -19,7 +19,7 @@ To harness the power of machine learning and data science to build innovative **
 
 | Project | Description | Technologies | Status |
 |---------|-------------|---------------|--------|
-| **[Lead Scoring Model](https://github.com/AdayeniEsther1/lead-scoring-model)** | ML model predicting lead interest with 73% accuracy for financial services. Features Streamlit web interface, Gradient Boosting classifier, and cloud deployment.**[Live Demo](https://lead-scoring-model-9szyx5fejwnnktbxhcogr.streamlit.app/)**| Python, Scikit-learn, Streamlit, Pandas | ✅ Completed |
+| **[Lead Scoring Model](https://github.com/AdayeniEsther1/lead-scoring-model)** | ML model predicting lead interest with 73% accuracy for financial services. Features Streamlit web interface, Gradient Boosting classifier, and cloud deployment.| Python, Scikit-learn, Streamlit, Pandas | ✅ Completed |
 | **[Credit Score Card System](https://github.com/AdayeniEsther1/credit-card-default-prediction)** | Built an end-to-end credit risk underwriting system that predicts borrower default probability using Machine Learning, converts predictions into a traditional 300–850 credit score, and generates explainable lending decisions using SHAP. Implements ensemble methods and feature engineering for financial risk assessment. | Python, Scikit-learn, XGBoost, Pandas | ✅ Completed |
 | **[Sales Analysis](https://github.com/AdeyeniEsther1/SalesAnalysis)** | Comprehensive sales data analysis and visualization | SQL, Power BI | ✅ Completed |
 | **[Football Analysis](https://github.com/AdeyeniEsther1/FifaWorldCup)** | FIFA World Cup data analysis and insights | Python, Data Visualization | ✅ Completed |
