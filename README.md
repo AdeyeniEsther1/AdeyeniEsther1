@@ -19,21 +19,21 @@ To harness the power of machine learning and data science to build innovative **
 
 | Project | Description | Technologies | Status |
 |---------|-------------|---------------|--------|
-| **[Lead Scoring Model](https://github.com/AdayeniEsther1/lead-scoring-model)** | ML model predicting lead interest with 73% accuracy for financial services. Features Streamlit web interface, Gradient Boosting classifier, and cloud deployment.**[Live Demo](https://lead-scoring-model-9szyx5fejwnnktbxhcogr.streamlit.app/)**| Python, Scikit-learn, Streamlit, Pandas | ✅ Complete |
-| **[Default of Credit Card Prediction](https://github.com/AdayeniEsther1/credit-card-default-prediction)** | Advanced ML model for predicting credit card default risk. Implements ensemble methods and feature engineering for financial risk assessment. | Python, Scikit-learn, XGBoost, Pandas | 🚀 Coming Soon |
-| **[Sales Analysis](https://github.com/AdeyeniEsther1/SalesAnalysis)** | Comprehensive sales data analysis and visualization | SQL, Power BI | ✅ Complete |
-| **[Football Analysis](https://github.com/AdeyeniEsther1/FifaWorldCup)** | FIFA World Cup data analysis and insights | Python, Data Visualization | ✅ Complete |
-| **[Citrone Eligibility Checker](https://github.com/AdayeniEsther1/Citrone-Eligibility-Checker)** | ML classification model for loan eligibility assessment | Machine Learning, Python | ✅ Complete |
-| **[5G Consumption Prediction](https://github.com/AdayeniEsther1/5G_Consumption)** | Predictive model for telecom consumption patterns | Supervised Learning, Python | ✅ Complete |
+| **[Lead Scoring Model](https://github.com/AdayeniEsther1/lead-scoring-model)** | ML model predicting lead interest with 73% accuracy for financial services. Features Streamlit web interface, Gradient Boosting classifier, and cloud deployment.**[Live Demo](https://lead-scoring-model-9szyx5fejwnnktbxhcogr.streamlit.app/)**| Python, Scikit-learn, Streamlit, Pandas | ✅ Completed |
+| **[Credit Score Card System](https://github.com/AdayeniEsther1/credit-card-default-prediction)** | Built an end-to-end credit risk underwriting system that predicts borrower default probability using Machine Learning, converts predictions into a traditional 300–850 credit score, and generates explainable lending decisions using SHAP. Implements ensemble methods and feature engineering for financial risk assessment. | Python, Scikit-learn, XGBoost, Pandas | ✅ Completed |
+| **[Sales Analysis](https://github.com/AdeyeniEsther1/SalesAnalysis)** | Comprehensive sales data analysis and visualization | SQL, Power BI | ✅ Completed |
+| **[Football Analysis](https://github.com/AdeyeniEsther1/FifaWorldCup)** | FIFA World Cup data analysis and insights | Python, Data Visualization | ✅ Completed |
+| **[Citrone Eligibility Checker](https://github.com/AdayeniEsther1/Citrone-Eligibility-Checker)** | ML classification model for loan eligibility assessment | Machine Learning, Python | ✅ Completed |
+| **[5G Consumption Prediction](https://github.com/AdayeniEsther1/5G_Consumption)** | Predictive model for telecom consumption patterns | Supervised Learning, Python | ✅ Completed |
 
 ## Skills
 
 | Skill | Domain | Proficiency |
 |-------|--------|-------------|
 | **Predictive Modeling for Finance** | FinTech | Advanced |
-| **Credit Risk Assessment** | FinTech | Intermediate |
+| **Credit Risk Assessment** | FinTech | Advanced |
 | **Lead Scoring & Customer Analytics** | FinTech | Advanced |
-| **Ensemble Methods & Feature Engineering** | Machine Learning | Intermediate |
+| **Ensemble Methods & Feature Engineering** | Machine Learning | Advanced |
 | **SQL & Python** | Data Engineering | Advanced |
 | **Tableau & Power BI** | Data Visualization | Advanced |
 | **Deep Learning & Neural Networks** | AI | Intermediate |
